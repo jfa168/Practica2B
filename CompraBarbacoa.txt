@@ -3,3 +3,5 @@ leña
 cerillas
 salsa
 gasolina
+pan
+cebolla
